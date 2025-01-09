@@ -1,6 +1,5 @@
 # FakeNetflix
-## Deploy: [([https://fkpinterest-40934cbefbff.herokuapp.com/](https://fpinterest-4398a4cdefa1.herokuapp.com/))](https://fakenetflix-c13e8abf6923.herokuapp.com/)
-
+## Deploy: (https://fakenetflix-c13e8abf6923.herokuapp.com/)
 Uma versão simplificada da Netflix. Ao invés de armazenar filmes, o app armazena links que podem ser exibidos para os usuários.
 
 ## Funcionalidades para os usuários:
